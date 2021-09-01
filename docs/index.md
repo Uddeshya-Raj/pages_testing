@@ -1,4 +1,5 @@
-You might be familiar with how GitHub Pages helps you share your work with the world or maybe you have attended a class that helped you build your first GitHub Pages site. Recent improvements to GitHub Pages have made it easier to publish your site from a variety of sources. One of these sources is your repository’s /docs folder.
+<h1>You might be familiar with how GitHub</h1>
+Pages helps you share your work with the world or maybe you have attended a class that helped you build your first GitHub Pages site. Recent improvements to GitHub Pages have made it easier to publish your site from a variety of sources. One of these sources is your repository’s /docs folder.
 
 Quality documentation is a hallmark of any healthy software project. For open-source projects, however, maintaining a robust compendium of knowledge detailing all the ins and outs is paramount. Well-curated documentation increases your project’s approachability, provides asynchronous guidance, and fosters the type of uncoordinated collaboration that propels open-source software development.
 
